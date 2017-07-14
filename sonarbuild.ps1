@@ -1,3 +1,0 @@
-- MSBuild.SonarQube.Runner begin /n:gameoflife  /v:1.0  /k: sonar.projectKey
-- "C:\Program Files (x86)\MSBuild\12.0\Bin\Msbuild.exe" "Game_of_life_procedural.sln" /p:Configuration=Debug /p:Platform="Any CPU"
-- MSBuild.SonarQube.Runner end
